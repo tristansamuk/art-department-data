@@ -1,0 +1,181 @@
+[
+  {
+    "id": "01",
+    "role": "Production Designer",
+    "rate": "Starting at 1186.00/ day",
+    "summary": "The Production Designer designs the visual look of sets and handles complex set design including builds and dressing projects. Additionally, they oversee the entire department, ensuring that all aspects of the production design are managed effectively and efficiently.",
+    "hired_by": "Hired by Production ❋ Reports to the Director, Producer and Executive Producer",
+    "responsibilities": [
+      "Develop and oversee set design and set layouts for both studio and location setups.",
+      "Develop and oversee Art Department decks describing all required aspects of the design.",
+      "Develop and oversee script breakdowns as they pertain to the job.",
+      "Develop and manage all Art Department budgets.",
+      "Communicate all relevant information to Art Department Crew and production.",
+      "Oversee Art Department hiring and labor management.",
+      "Oversee Art Dept. safety and safe working conditions, and safety reporting to Production / Executive Producer."
+    ],
+    "skills": [
+      "Expertise in all facets of design and management as they pertain to commercial film production.",
+      "Expertise in the design and procurement of sets, both constructed and location specific.",
+      "Expertise in the approvals process surrounding the design of sets and their attendant components.",
+      "Expertise in and responsible for the management of Art Department budgets.",
+      "Expertise in production protocols, set etiquette and ACCP recommendations.",
+      "High-level communications skills with notable experience in leading a crew."
+    ]
+  },
+  {
+    "id": "02",
+    "role": "Art Director",
+    "rate": "Starting at 809.00/ day",
+    "summary": "The Art Director designs the visual look of the set through dressing and props. They may act as department lead, overseeing the entire department, on jobs where no PD is required.",
+    "hired_by": "Hired by Production Designer on large scale jobs where PD & Art Director are required. Hired by Production on small scale jobs where no PD is required ❋ Reports to the PD if the job has a PD. If not, reports to Director / Producer / Executive Producer",
+    "responsibilities": [
+      "Develop and oversee Art Department decks describing all required aspects of the design under supervision of PD, or independently if no PD.",
+      "Develop and oversee script breakdowns as they pertain to the job under supervision of PD, or independently if no PD.",
+      "Develop and manage all Art Department budgets under supervision of PD, or independently if no PD.",
+      "Communicate all relevant information to Art Department Crew and production.",
+      "Oversee Art Department hiring and labour management and rates.",
+      "Be able to Procure props and dressing as required based on job parameters.",
+      "Procure and manage vehicle logistics. where no PD is required.",
+      "Procure and manage Petty Cash (PC) where no PD is required.",
+      "Coordinate set dress, and wrap out in a safe and organized manner.",
+      "Oversee returns process including managing and damages or replacement costs when project does not require a PD.",
+      "Oversee crew safety and safe working conditions."
+    ],
+    "skills": [
+      "Expertise in set dressing design, the procurement of props and dressing and able to take direction directly from the director / producer.",
+      "Expertise in the approvals process surrounding props and dressing.",
+      "Expertise in the management of budgets and the overall management of the department.",
+      "Expertise in production protocols, set etiquette and ACCP recommendations.",
+      "High-level communications skills with notable experience in leading a crew.",
+      "High-level proficiency in the operation of required communication software."
+    ]
+  },
+  {
+    "id": "03",
+    "role": "Buyer",
+    "rate": "Starting at 701.00/ day",
+    "summary": "The Buyer is responsible for everything related to procuring all props and getting approvals. Additionally they are responsible for department logistics including hiring crews, ordering vehicles and support gear and managing budget.",
+    "hired_by": "Hired by PD / Art Director ❋ Reports to the Art Director / PD / Producer",
+    "responsibilities": [
+      "Procure props and dressing to support the work of the Production Designer.",
+      "Arrange for all rentals and purchases including payment, POs and coordinated pickups.",
+      "Procure and manage vehicle logistics in tandem with production.",
+      "Procure and manage Petty Cash (PC) as it relates to the position and attendant crew.",
+      "Coordinate pickups, set dress, and wrap out in a safe and organized manner.",
+      "Develop and manage budgets related to the allotted PC.",
+      "Oversee returns process including managing any damages or replacement costs.",
+      "Compile and submit PC report in a timely manner.",
+      "Communicate all relevant information to Art Department Crew and production.",
+      "Organize Art Department hiring and labour management as it relates to the position.",
+      "Oversee Art Dept. safety and safe working conditions, and safety reporting to Art Director / PD."
+    ],
+    "skills": [
+      "Expertise in the procurement of props and dressing.",
+      "Expertise in the approvals process surrounding props and dressing.",
+      "Expertise in the management of budgets as they pertain to the Buyer position.",
+      "Expertise in production protocols, set etiquette and ACCP recommendations.",
+      "High-level communications skills with notable experience in leading a crew.",
+      "High-level proficiency in the operation of required communication software.",
+      "Must maintain a valid driver’s license. Driver’s Abstract approval required for production vehicle operation."
+    ]
+  },
+  {
+    "id": "04",
+    "role": "Assistant Buyer",
+    "rate": "Starting at 485.00/ day",
+    "summary": "The Assistant Buyer supports the Buyer with whatever is required in the process of procuring and managing props and dressing and managing budget.",
+    "hired_by": "Hired by Buyer / PD / Art Director ❋ Reports to the Buyer / PD / Art Director",
+    "responsibilities": [
+      "Assist in the procurement of props and dressing to support the work of the Buyer.",
+      "Assist the Buyer in the arrangement of rentals and purchases including payment, POs and coordinated pickups.",
+      "Assist the Buyer in the coordination of pickups and set dressing in a safe and organized manner.",
+      "Assist the Buyer in the management of budgets related to the allotted PC.",
+      "Assist the Buyer in the returns process including managing and damages or replacement costs",
+      "Assist the Buyer in communicating all relevant information to Art Department Crew and production when necessary.",
+      "Assist the Buyer in Art Department labour management as it relates to the position."
+    ],
+    "skills": [
+      "Notable experience in the procurement of props and dressing.",
+      "Notable experience in the approvals process surrounding props and dressing.",
+      "Notable experience in the management of budgets as they pertain to the Assistant Buyer position.",
+      "Expertise in production protocols, set etiquette and ACCP recommendations.",
+      "High-level communications skills with notable experience in leading a crew.",
+      "High-level proficiency in the operation of required communication software.",
+      "Must maintain a valid driver’s license. Driver’s Abstract approval required for production vehicle operation."
+    ]
+  },
+  {
+    "id": "05",
+    "role": "Lead Set Dresser",
+    "rate": "Starting at 377.00/ day + 25/hr OT after 14 hrs on shoot days",
+    "summary": "Lead Set Dressers have the same responsibilities of a regular set dresser but are also capable of leading the set dressing crew independently as per instruction of anyone above them. This may include helping to coordinate crew logistics and a more extensive dressing kit.",
+    "hired_by": "Hired by Buyer / Art Director / PD ❋ Reports to Asst. Buyer / Buyer / Art Director / PD",
+    "responsibilities": [
+      "Lead the dressing of sets in both studio and location environments.",
+      "Manage the sets during shooting including leading the alteration of sets and props.",
+      "Coordinate the wrap of sets in a timely and organized manner.",
+      "Maintain an organized and well-stocked Lead Dresser Kit.",
+      "Communicate all relevant information to Art Department Crew and production.",
+      "Oversee Dressing crew - Set Dresser(s), and Art Assistant(s); safety and safe working, conditions, and safety reporting to Buyer / Art Director / PD."
+    ],
+    "skills": [
+      "Expertise with set dressing.",
+      "Expertise in the craft as it pertains to film-making and the development and alteration of props and sets.",
+      "Expertise in production protocols, set etiquette and ACCP recommendations.",
+      "Expertise in the safe handling of props and dressing as it relates to dressing a set and restoring a set / location to its original condition.",
+      "High-level communications skills with notable experience in leading a crew.",
+      "High-level proficiency in the utilization of required communication software.",
+      "Must maintain a valid driver’s license. Driver’s Abstract approval required for production vehicle operation."
+    ]
+  },
+  {
+    "id": "06",
+    "role": "Set Dresser",
+    "rate": "Starting at 350.00/ day + 25/hr OT after 14 hrs on shoot days",
+    "summary": "Set Dressers are an integral role of the art department. They are responsible for handling and dressing of props on set including pickups and drop offs. They are able to work to start dressing the next set while Lead is at camera.",
+    "hired_by": "Hired by Buyer ❋ Reports to the Lead Dresser / Buyer / Asst. Buyer",
+    "responsibilities": [
+      "Support the Lead Dresser in dressing of sets in both studio and location environments.",
+      "Support the Lead Dresser during shooting including leading the alteration of sets and props.",
+      "Support the Lead Dresser in the wrap of sets in a timely and organized manner.",
+      "Support the Lead Dresser in arranging for the safe storage, movement, placement and preparation of all dressing before and after each location.",
+      "Support the Lead Dresser in communicating all relevant information to Art Department Crew and production where relevant.",
+      "Support the Lead Dresser with regard to implementing safety and safe working conditions, and safety reporting to Lead Dresser / Buyer."
+    ],
+    "skills": [
+      "High level of experience with set dressing and contribution to expedient film-making.",
+      "High level experience on set as it pertains to film-making and the development and alteration of props and sets.",
+      "High level experience in production protocols, set etiquette and ACCP recommendations.",
+      "High level of skill in the safe handling of props and dressing as it relates to dressing a set and restoring a set / location to its original condition.",
+      "Notable communications skills with notable experience in leading a crew.",
+      "Notable skills in the utilization of required communication software.",
+      "Driver’s Abstract approval required for production vehicle operation."
+    ]
+  },
+  {
+    "id": "07",
+    "role": "Art Assistant",
+    "rate": "Starting at  270.00 / day  + 25/hr OT after 14 hrs on shoot days",
+    "summary": "Art Assistants have the same responsibilities as regular dressers however they typically have less expertise and experience.",
+    "hired_by": "Hired by Buyer ❋ Reports to the Lead Dresser / Set Dressers when necessary / Asst. Buyer / Buyer",
+    "responsibilities": [
+      "General assistant in all areas of the Art Department.",
+      "Under supervision of the Buyer / 2nd Buyer / Lead Dresser / Set Dresser, Safe and efficient pick-up and return of all items required by the Production Designer and Buyer.",
+      "Dressing of sets in both studio and location environments.",
+      "Wrap of sets in a timely and organized manner.",
+      "Safe storage, movement, placement and preparation of all dressing before and after each location.",
+      "Expense accounting for all received petty cash.",
+      "Contribute to crew safety and safe working conditions."
+    ],
+    "skills": [
+      "Prior experience in the Art Department is not required.",
+      "Proficient communications skills.",
+      "Proficiency in the safe packing, moving and transportation of props and dressing.",
+      "Engaged in learning about craft as it pertains to film-making and the development and alteration of props and sets",
+      "Engaged in learning about production protocols, set etiquette and ACCP recommendations.",
+      "Engaged in learning about the operation of required communication software.",
+      "Driver’s License and driver’s abstract approval required for vehicle operation. For non-driving Art Assistant - working to obtain a valid driver’s license if the individual does not already possess one."
+    ]
+  }
+]
