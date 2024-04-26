@@ -1,6 +1,7 @@
 [
   {
     "id": "01",
+    "url_param": "production-designer",
     "role": "Production Designer",
     "rate": "Starting at 1186.00/ day",
     "summary": "The Production Designer designs the visual look of sets and handles complex set design including builds and dressing projects. Additionally, they oversee the entire department, ensuring that all aspects of the production design are managed effectively and efficiently.",
@@ -25,6 +26,7 @@
   },
   {
     "id": "02",
+    "url_param": "art-director",
     "role": "Art Director",
     "rate": "Starting at 809.00/ day",
     "summary": "The Art Director designs the visual look of the set through dressing and props. They may act as department lead, overseeing the entire department, on jobs where no PD is required.",
@@ -53,6 +55,7 @@
   },
   {
     "id": "03",
+    "url_param": "buyer",
     "role": "Buyer",
     "rate": "Starting at 701.00/ day",
     "summary": "The Buyer is responsible for everything related to procuring all props and getting approvals. Additionally they are responsible for department logistics including hiring crews, ordering vehicles and support gear and managing budget.",
@@ -82,6 +85,7 @@
   },
   {
     "id": "04",
+    "url_param": "assistant-buyer",
     "role": "Assistant Buyer",
     "rate": "Starting at 485.00/ day",
     "summary": "The Assistant Buyer supports the Buyer with whatever is required in the process of procuring and managing props and dressing and managing budget.",
@@ -107,6 +111,7 @@
   },
   {
     "id": "05",
+    "url_param": "lead-set-dresser",
     "role": "Lead Set Dresser",
     "rate": "Starting at 377.00/ day + 25/hr OT after 14 hrs on shoot days",
     "summary": "Lead Set Dressers have the same responsibilities of a regular set dresser but are also capable of leading the set dressing crew independently as per instruction of anyone above them. This may include helping to coordinate crew logistics and a more extensive dressing kit.",
@@ -131,6 +136,7 @@
   },
   {
     "id": "06",
+    "url_param": "set-dresser",
     "role": "Set Dresser",
     "rate": "Starting at 350.00/ day + 25/hr OT after 14 hrs on shoot days",
     "summary": "Set Dressers are an integral role of the art department. They are responsible for handling and dressing of props on set including pickups and drop offs. They are able to work to start dressing the next set while Lead is at camera.",
@@ -155,6 +161,7 @@
   },
   {
     "id": "07",
+    "url_param": "art-assistant",
     "role": "Art Assistant",
     "rate": "Starting at  270.00 / day  + 25/hr OT after 14 hrs on shoot days",
     "summary": "Art Assistants have the same responsibilities as regular dressers however they typically have less expertise and experience.",
